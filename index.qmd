@@ -3,7 +3,9 @@ title: "test"
 format: 
   html:
     embed-resources: true
-    theme: darkly
+    theme: 
+      light: flatly
+      dark: darkly
 author:
   - name: Víctor Hugo Gauto
     orcid: 0000-0001-9960-8558
