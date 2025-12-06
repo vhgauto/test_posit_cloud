@@ -25,3 +25,11 @@ plot(iris$Sepal.Length, iris$Petal.Length)
 ```
 
 2025
+
+```{r}
+library(ggplot2)
+
+ggplot(diamonds, aes(carat, x)) +
+  geom_point() +
+  theme(aspect.ratio = 1)
+```
