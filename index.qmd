@@ -3,6 +3,19 @@ title: "test"
 format: 
   html:
     embed-resources: true
+author:
+  - name: Víctor Gauto
+    orcid: 0000-0001-9960-8558
+    corresponding: true
+    email: victor.gauto@ca.frre.utn.edu.ar
+    affiliations:
+      - name: GISTAQ (UTN-FRRe)
+        url: https://www.instagram.com/gistaq.utn/
+      - name: IIDTHH (UNNE, CONICET)
+        url: https://iidthh.conicet.gov.ar/
+      - name: Instituto Gulich (UNC, CONAE)
+        url: https://ig.conae.unc.edu.ar/
+
 ---
 
 ```{r}
