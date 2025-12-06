@@ -6,7 +6,7 @@
     "appmode": "quarto-static",
     "primary_rmd": "index.qmd",
     "primary_html": null,
-    "content_category": null,
+    "content_category": "site",
     "has_parameters": false
   },
   "quarto": {
@@ -787,10 +787,10 @@
       "checksum": "8be9abe49a87ba6f205a437b0181fc29"
     },
     "index.html": {
-      "checksum": "6ec906d6335552dc6ff81bf4f3cad665"
+      "checksum": "57f22868fc665f438c07ed02785a7db0"
     },
     "index.qmd": {
-      "checksum": "671f868eeb50edbd4ef61a64f2bdee28"
+      "checksum": "8237adc0a9d80c0c53302738eea2446e"
     },
     "README.md": {
       "checksum": "6440eca3a4a5c1a1b81c7c11cdda044b"

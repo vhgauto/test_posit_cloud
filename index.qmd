@@ -5,7 +5,7 @@ format:
     embed-resources: true
     theme: darkly
 author:
-  - name: Víctor Gauto
+  - name: Víctor Hugo Gauto
     orcid: 0000-0001-9960-8558
     corresponding: true
     email: victor.gauto@ca.frre.utn.edu.ar
@@ -16,7 +16,6 @@ author:
         url: https://iidthh.conicet.gov.ar/
       - name: Instituto Gulich (UNC, CONAE)
         url: https://ig.conae.unc.edu.ar/
-
 ---
 
 ```{r}
@@ -24,3 +23,7 @@ plot(iris$Sepal.Length, iris$Petal.Length)
 ```
 
 2025
+
+```{r}
+print(Sys.getenv("variable"))
+```
