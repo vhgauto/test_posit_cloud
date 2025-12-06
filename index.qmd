@@ -23,7 +23,3 @@ plot(iris$Sepal.Length, iris$Petal.Length)
 ```
 
 2025
-
-```{r}
-print(Sys.getenv("variable"))
-```
