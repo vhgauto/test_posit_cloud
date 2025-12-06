@@ -1,0 +1,12 @@
+---
+title: "test"
+format: 
+  html:
+    embed-resources: true
+---
+
+```{r}
+plot(iris$Sepal.Length, iris$Petal.Length)
+```
+
+2025
